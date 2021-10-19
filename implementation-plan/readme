@@ -1,0 +1,6 @@
+Implementation Plan
+
+Goal : Create a simple To-Do list for every day use that can list, organize, and check off tasks.
+
+My plan is to create a bash scpirt that will be able to have tasks added and removed by the user, the script will create a .txt document for the user and be the main gui for the To-Do list.
+
